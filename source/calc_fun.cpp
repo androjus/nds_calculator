@@ -57,7 +57,7 @@ void DoCalc(vector<string> eq){
             if(eq[i]=="*")
                 res = first * second;
             if(eq[i]=="/")
-                res = first / second;
+                res = (float)first / (float)second;
             printf("=%0.2f", res);
             isCalculated = true;
             return;
