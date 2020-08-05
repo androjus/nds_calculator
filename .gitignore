@@ -1,4 +1,6 @@
 
+build/calc_fun.d
+build/calc_fun.o
 build/calc_res.d
 build/calc_res.h
 build/calc_res.o
