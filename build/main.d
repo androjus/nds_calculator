@@ -59,7 +59,7 @@ main.o: D\:/nds_calculator/source/main.cpp \
  C\:/devkitPro/libnds/include/nds/arm9/video.h \
  C\:/devkitPro/libnds/include/nds/arm9/videoGL.h \
  C\:/devkitPro/libnds/include/nds/arm9/nand.h \
- D\:/nds_calculator/build/calc_top.h
+ D\:/nds_calculator/build/calc_top.h D\:/nds_calculator/build/calc_res.h
 C\:/devkitPro/libnds/include/nds.h:
 C\:/devkitPro/libnds/include/nds/libversion.h:
 C\:/devkitPro/libnds/include/nds/ndstypes.h:
@@ -121,3 +121,4 @@ C\:/devkitPro/libnds/include/nds/arm9/video.h:
 C\:/devkitPro/libnds/include/nds/arm9/videoGL.h:
 C\:/devkitPro/libnds/include/nds/arm9/nand.h:
 D\:/nds_calculator/build/calc_top.h:
+D\:/nds_calculator/build/calc_res.h:
