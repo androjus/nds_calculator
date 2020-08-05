@@ -44,6 +44,8 @@ LDFLAGS	=	-specs=ds_arm9.specs -g $(ARCH) -Wl,-Map,$(notdir $*.map)
 #---------------------------------------------------------------------------------
 LIBS	:= -lnds9
  
+GAME_TITLE        :=    Calculator
+GAME_SUBTITLE1    :=    Simple calculator for Nintendo DS
  
 #---------------------------------------------------------------------------------
 # list of directories containing libraries, this must be the top level containing
@@ -51,6 +53,7 @@ LIBS	:= -lnds9
 #---------------------------------------------------------------------------------
 LIBDIRS	:=	$(LIBNDS)
  
+
 #---------------------------------------------------------------------------------
 # no real need to edit anything past this point unless you need to add additional
 # rules for different file extensions

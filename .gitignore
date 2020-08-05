@@ -5,3 +5,12 @@ build/calc_res.o
 build/calc_res.s
 build/main.d
 build/main.o
+build/calc_top.d
+build/calc_top.h
+build/calc_top.o
+build/calc_top.s
+build/nds_calculator.map
+nds_calculator.layout
+nds_calculator.elf
+nds_calculator.cbp
+nds_calculator.nds
