@@ -13,7 +13,7 @@ Data is entered using the lower touch screen of the console and the results are 
 nds_calculator was developed using devkitPro.
 It is needed to start the process of compiling an application into the .nds format
 You can download it from here:
->https://github.com/devkitPro/installer/releases
+><https://github.com/devkitPro/installer/releases>
 
 ### App
 
